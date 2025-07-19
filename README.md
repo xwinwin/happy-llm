@@ -59,7 +59,7 @@
 | [第七章 大模型应用](./docs/chapter7/第七章%20大模型应用.md) | 模型评测、RAG 检索增强、Agent 智能体 | ✅ |
 | [Extra Chapter LLM Blog](./Extra-Chapter/) | 优秀的大模型 学习笔记/Blog ，欢迎大家来 PR ！| 🚧 |
 
-### Extar Chapter LLM Blog
+### Extra Chapter LLM Blog
 
 - [大模型都这么厉害了，微调0.6B的小模型有什么意义？](./Extra-Chapter/why-fine-tune-small-large-language-models/readme.md) @[不要葱姜蒜](https://github.com/KMnO4-zx) 2025-7-11
 
