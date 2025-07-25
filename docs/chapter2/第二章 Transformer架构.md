@@ -423,7 +423,7 @@ $$
 class LayerNorm(nn.Module):
     ''' Layer Norm 层'''
     def __init__(self, features, eps=1e-6):
-	super(LayerNorm, self).__init__()
+	super().__init__()
     # 线性矩阵做映射
 	self.a_2 = nn.Parameter(torch.ones(features))
 	self.b_2 = nn.Parameter(torch.zeros(features))
