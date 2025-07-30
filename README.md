@@ -67,6 +67,8 @@
 
 - [文本数据处理详解](./Extra-Chapter/text-data-processing/readme.md) @[蔡鋆捷](https://github.com/xinala-781) 2025-7-14
 
+- [Qwen3-"VL"——超小中文多模态模型的“拼接微调”之路](./Extra-Chapter/vlm-concatenation-finetune/README.md) @[ShaohonChen](https://github.com/ShaohonChen) 2025-7-30
+
 > &emsp;&emsp;*如果大家在学习 Happy-LLM 项目或 LLM 相关知识中有自己独到的见解、认知、实践，欢迎大家 PR 在 [Extra Chapter LLM Blog](./Extra-Chapter/) 中。请遵守 Extra Chapter LLM Blog 的 [PR 规范](./Extra-Chapter/Readme.md)，我们会视 PR 内容的质量和价值来决定是否合并或补充到 Happy-LLM 正文中来。*
 
 ### 模型下载
@@ -115,6 +117,7 @@
 
 - [ditingdapeng](https://github.com/ditingdapeng)（内容贡献者-云原生基础架构工程师）
 - [蔡鋆捷](https://github.com/xinala-781)（内容贡献者-福州大学）
+- [ShaohonChen](https://github.com/ShaohonChen) （情感机器实验室研究员-西安电子科技大学在读硕士）
 
 ### 特别感谢
 - 感谢 [@Sm1les](https://github.com/Sm1les) 对本项目的帮助与支持
