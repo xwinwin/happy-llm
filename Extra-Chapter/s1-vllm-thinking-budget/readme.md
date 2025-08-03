@@ -27,7 +27,7 @@
 
 我们使用 vLLM 来实现模型的思考预算。vLLM 是一个高性能的推理引擎，支持大规模语言模型的高效推理。以下为代码实现的步骤：
 
-> 考虑到部分同学配置环境可能会遇到一些问题，我们在 ucloud 平台准备了环境镜像，点击下方链接并直接创建 ucloud 示例即可。 xxxxxxxxxx
+> 考虑到部分同学配置环境可能会遇到一些问题，我们在 ucloud 平台准备了环境镜像，点击下方链接并直接创建 ucloud 示例即可。 https://www.compshare.cn/images/8gfTTB5y0ql6?referral_code=ELukJdQS3vvCwYIfgsQf2C
 
 <div align='center'>
     <img src="./images/thinking-budget.png" alt="alt text" width="80%">
