@@ -9,7 +9,6 @@ import torch.nn.functional as F
 class ModelArgs:
     n_embd: int # 嵌入维度
     n_heads: int # 头数
-    n_local_heads: int # 本地计算头数
     dim: int # 模型维度
     dropout: float
     max_seq_len: int
