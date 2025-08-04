@@ -69,6 +69,9 @@
 
 - [Qwen3-"VL"——超小中文多模态模型的“拼接微调”之路](./Extra-Chapter/vlm-concatenation-finetune/README.md) @[ShaohonChen](https://github.com/ShaohonChen) 2025-7-30
 
+- [S1: Thinking Budget with vLLM](./Extra-Chapter/s1-vllm-thinking-budget/readme.md) @[kmno4-zx](https://github.com/kmno4-zx) 2025-8-03
+
+
 > &emsp;&emsp;*如果大家在学习 Happy-LLM 项目或 LLM 相关知识中有自己独到的见解、认知、实践，欢迎大家 PR 在 [Extra Chapter LLM Blog](./Extra-Chapter/) 中。请遵守 Extra Chapter LLM Blog 的 [PR 规范](./Extra-Chapter/Readme.md)，我们会视 PR 内容的质量和价值来决定是否合并或补充到 Happy-LLM 正文中来。*
 
 ### 模型下载
