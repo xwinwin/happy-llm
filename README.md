@@ -72,6 +72,9 @@
 - [S1: Thinking Budget with vLLM](./Extra-Chapter/s1-vllm-thinking-budget/readme.md) @[kmno4-zx](https://github.com/kmno4-zx) 2025-8-03
 
 
+- [CDDRS: 使用细粒度语义信息指导增强的RAG检索方法](./Extra-Chapter/CDDRS/readme.md) @[Hongru0306](https://github.com/Hongru0306) 2025-8-21
+
+
 > &emsp;&emsp;*如果大家在学习 Happy-LLM 项目或 LLM 相关知识中有自己独到的见解、认知、实践，欢迎大家 PR 在 [Extra Chapter LLM Blog](./Extra-Chapter/) 中。请遵守 Extra Chapter LLM Blog 的 [PR 规范](./Extra-Chapter/Readme.md)，我们会视 PR 内容的质量和价值来决定是否合并或补充到 Happy-LLM 正文中来。*
 
 ### 模型下载
@@ -121,6 +124,7 @@
 - [ditingdapeng](https://github.com/ditingdapeng)（内容贡献者-云原生基础架构工程师）
 - [蔡鋆捷](https://github.com/xinala-781)（内容贡献者-福州大学）
 - [ShaohonChen](https://github.com/ShaohonChen) （情感机器实验室研究员-西安电子科技大学在读硕士）
+- [肖鸿儒, 庄健琨](https://github.com/Hongru0306) (内容贡献者-同济大学)
 
 ### 特别感谢
 - 感谢 [@Sm1les](https://github.com/Sm1les) 对本项目的帮助与支持
