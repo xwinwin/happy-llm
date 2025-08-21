@@ -124,6 +124,7 @@
 - [ditingdapeng](https://github.com/ditingdapeng)（内容贡献者-云原生基础架构工程师）
 - [蔡鋆捷](https://github.com/xinala-781)（内容贡献者-福州大学）
 - [ShaohonChen](https://github.com/ShaohonChen) （情感机器实验室研究员-西安电子科技大学在读硕士）
+- [肖鸿儒, 庄健琨](https://github.com/Hongru0306) (内容贡献者-同济大学)
 
 ### 特别感谢
 - 感谢 [@Sm1les](https://github.com/Sm1les) 对本项目的帮助与支持
