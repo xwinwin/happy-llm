@@ -105,6 +105,8 @@
 
 &emsp;&emsp;最后，欢迎每一位读者在学习完本项目后加入到 LLM 开发者的行列。作为国内 AI 开源社区，我们希望充分聚集共创者，一起丰富这个开源 LLM 的世界，打造更多、更全面特色 LLM 的教程。星火点点，汇聚成海。我们希望成为 LLM 与普罗大众的阶梯，以自由、平等的开源精神，拥抱更恢弘而辽阔的 LLM 世界。
 
+> - 中国计算机协会(CCF) × Datawhale × GitLink开源平台联合推出AI普惠课程，免费算力报名参加 [【报名地址】](https://mp.weixin.qq.com/s/P03f3e2vUUh7OxDP40Ra6w)[【GitLink 地址】](https://gitlink.org.cn/datawhalechina/happy-llm)
+
 ## 🤝 如何贡献
 
 我们欢迎任何形式的贡献！
