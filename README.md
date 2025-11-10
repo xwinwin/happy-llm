@@ -69,10 +69,12 @@
 
 - [Qwen3-"VL"——超小中文多模态模型的“拼接微调”之路](./Extra-Chapter/vlm-concatenation-finetune/README.md) @[ShaohonChen](https://github.com/ShaohonChen) 2025-7-30
 
-- [S1: Thinking Budget with vLLM](./Extra-Chapter/s1-vllm-thinking-budget/readme.md) @[kmno4-zx](https://github.com/kmno4-zx) 2025-8-03
+- [S1: Thinking Budget with vLLM](./Extra-Chapter/s1-vllm-thinking-budget/readme.md) @[不要葱姜蒜](https://github.com/kmno4-zx) 2025-8-03
 
 
 - [CDDRS: 使用细粒度语义信息指导增强的RAG检索方法](./Extra-Chapter/CDDRS/readme.md) @[Hongru0306](https://github.com/Hongru0306) 2025-8-21
+
+- [大模型生成 Token 的方式有哪些？](./Extra-Chapter/generation-method/readme.md) @[不要葱姜蒜](https://github.com/kmno4-zx) 2025-10-17
 
 
 > &emsp;&emsp;*如果大家在学习 Happy-LLM 项目或 LLM 相关知识中有自己独到的见解、认知、实践，欢迎大家 PR 在 [Extra Chapter LLM Blog](./Extra-Chapter/) 中。请遵守 Extra Chapter LLM Blog 的 [PR 规范](./Extra-Chapter/Readme.md)，我们会视 PR 内容的质量和价值来决定是否合并或补充到 Happy-LLM 正文中来。*
@@ -102,6 +104,8 @@
 &emsp;&emsp;在阅读本书的过程中，建议你将理论和实际相结合。LLM 是一个快速发展、注重实践的领域，我们建议你多投入实战，复现本书提供的各种代码，同时积极参加 LLM 相关的项目与比赛，真正投入到 LLM 开发的浪潮中。我们鼓励你关注 Datawhale 及其他 LLM 相关开源社区，当遇到问题时，你可以随时在本项目的 issue 区提问。
 
 &emsp;&emsp;最后，欢迎每一位读者在学习完本项目后加入到 LLM 开发者的行列。作为国内 AI 开源社区，我们希望充分聚集共创者，一起丰富这个开源 LLM 的世界，打造更多、更全面特色 LLM 的教程。星火点点，汇聚成海。我们希望成为 LLM 与普罗大众的阶梯，以自由、平等的开源精神，拥抱更恢弘而辽阔的 LLM 世界。
+
+> - 中国计算机学会(CCF) × Datawhale × GitLink开源平台联合推出AI普惠课程，免费算力报名参加 [【报名地址】](https://mp.weixin.qq.com/s/P03f3e2vUUh7OxDP40Ra6w)[【GitLink 地址】](https://gitlink.org.cn/datawhalechina/happy-llm)
 
 ## 🤝 如何贡献
 
@@ -139,7 +143,7 @@
 ## Star History
 
 <div align='center'>
-    <img src="./images/star-history-2025710.png" alt="Datawhale" width="90%">
+    <img src="./images/star-history-20251017.png" alt="Datawhale" width="90%">
 </div>
 
 <div align="center">
